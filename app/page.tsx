@@ -47,8 +47,7 @@ export default function Home() {
           <div className="border-y-4 border-blue-site p-8 sm:w-60 relative bg-white sm:mt-[-300px]">
             <h3 className="text-2xl font-site">Our Initiatives</h3>
             <p className="my-6 text-sm">
-              Our initiatives aim to help everyone discover and practice their own beliefs through
-              a variety of services intended to help our users grow spiritually. 
+              Our initiatives aim to help everyone discover and practice their own beliefs through a variety of services intended to help our users grow spiritually. 
             </p>
             <a
               href="/projects"
@@ -71,8 +70,7 @@ export default function Home() {
           <div className="border-y-4 border-blue-site p-8 sm:w-60 relative bg-white sm:ml-32 sm:mt-[-430px]">
             <h3 className="text-2xl font-site">Our Mission</h3>
             <p className="my-6 text-sm">
-              At SpiritualU, we believe that spirituality is a deeply personal idea and a powerful force for the betterment of the world.
-              We are committed to achieving our goals by providing a variety of services to help everyone discover their own spirituality. 
+              At SpiritualU, we believe that spirituality is a deeply personal idea and a powerful force for the betterment of the world. We are committed to achieving our goals by providing a variety of services to help everyone discover their own spirituality. 
             </p>
             <a href="/about" className="text-purple-site py-6 font-site">
               Read More
