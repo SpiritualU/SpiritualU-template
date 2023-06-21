@@ -14,7 +14,6 @@ export default function Home() {
           />
         </video>
         <div className="absolute top-[40px] right-[30px] sm:top-2/4 sm:left-2/4 text-white sm:translate-y-[-50%] sm:translate-x-[-50%] font-site">
-          <h2 className="sm:text-4xl mb-4">FREE & ACCESSIBLE</h2>
           <h1 className="sm:text-[90px] sm:leading-[90px]">
             Discover your own spirituality.
           </h1>
@@ -48,9 +47,8 @@ export default function Home() {
           <div className="border-y-4 border-blue-site p-8 sm:w-60 relative bg-white sm:mt-[-300px]">
             <h3 className="text-2xl font-site">Our Initiatives</h3>
             <p className="my-6 text-sm">
-              Our initiatives bring people together to help solve real problems
-              and evoke a positive change. Explore our initiatives and see what
-              you can do to help.
+              Our initiatives aim to help everyone discover and practice their own beliefs through
+              a variety of services intended to help our users grow spiritually. 
             </p>
             <a
               href="/projects"
@@ -73,11 +71,8 @@ export default function Home() {
           <div className="border-y-4 border-blue-site p-8 sm:w-60 relative bg-white sm:ml-32 sm:mt-[-430px]">
             <h3 className="text-2xl font-site">Our Mission</h3>
             <p className="my-6 text-sm">
-              We believe that education is a human right and a powerful tool for
-              social change. We provide educational projects, learning resources
-              and mentoring programs for kids of all ages and backgrounds. We
-              aim to create a world where everyone has the opportunity to learn
-              and grow.
+              At SpiritualU, we believe that spirituality is a deeply personal idea and a powerful force for the betterment of the world.
+              We are committed to achieving our goals by providing a variety of services to help everyone discover their own spirituality. 
             </p>
             <a href="/about" className="text-purple-site py-6 font-site">
               Read More
